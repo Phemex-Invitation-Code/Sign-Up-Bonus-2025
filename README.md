@@ -10,7 +10,8 @@
         <th>Details</th>
     </tr>
     <tr>
-        <td><strong>Phemex Invitation Code</strong></td>
+        <td><strong><a href="https://github.com/Phemex-Invitation-Code/" target="_blank">Phemex Invitation Code</a>
+</strong></td>
         <td><strong>HMXFT5</strong></td>
     </tr>
     <tr>
@@ -48,7 +49,7 @@
 
 <h2>How to Use Phemex Invitation Code: HMXFT5</h2>
 <h3>Step 1: Create a Phemex Account</h3>
-<p>Visit the <a href="https://www.phemex.com/">official Phemex website</a> and click on the “Sign Up” button.</p>
+<p>Visit the <a href="https://phemex.com/register?group=4944&referralCode=HMXFT5">official Phemex website</a> and click on the “Sign Up” button.</p>
 
 <h3>Step 2: Enter the Invitation Code</h3>
 <p>During registration, you’ll see a field labeled “Invitation Code.” Enter <strong>HMXFT5</strong> in this field to activate the bonus.</p>
