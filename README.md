@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td><strong>Sign-Up Bonus</strong></td>
-        <td>Up to $600 USDT Bonus & Fee Discounts</td>
+        <td>Up to $8800 USDT Bonus & Fee Discounts</td>
     </tr>
     <tr>
         <td><strong>Eligibility</strong></td>
@@ -40,7 +40,7 @@
 
 <h2>Phemex Invitation Code: HMXFT5 - Exclusive Sign-Up Bonus</h2>
 <ul>
-    <li>Up to $600 USDT in bonus rewards</li>
+    <li>Up to $8800 USDT in bonus rewards</li>
     <li>Trading fee discounts of up to 50%</li>
     <li>Futures trading incentives</li>
     <li>Exclusive promotional offers</li>
